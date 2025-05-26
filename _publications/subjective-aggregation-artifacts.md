@@ -6,7 +6,7 @@ excerpt: 'Our results indicate that aggregation is a confounding factor in the m
 date: 2025-04-29
 venue: 'NAACL'
 published: 'true'
-paperurl: https://arxiv.org/abs/2410.13776
+paperurl: https://aclanthology.org/2025.naacl-long.284/#
 citation: 'Chochlakis, Georgios, Alexandros Potamianos, Kristina Lerman, and Shrikanth Narayanan. "Aggregation Artifacts in Subjective Tasks Collapse Large Language Models Posteriors." In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL).'
 ---
 
