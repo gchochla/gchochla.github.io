@@ -2,7 +2,7 @@
 title: 'Large Language Models Do Multi-Label Classification Differently'
 collection: publications
 permalink: /publication/llm-ml-differently
-excerpt: ''
+excerpt: 'We investigate how autoregressive LLMs perform multi-label classification, with a focus on subjective tasks, by analyzing the output distributions of the models in each generation step. We find that their predictive behavior reflects the multiple steps in the underlying language modeling required to generate all relevant labels as they tend to suppress all but one label at each step.'
 date: 2025-05-22
 venue: ''
 published: 'review'
