@@ -61,7 +61,7 @@ redirect_from:
       ... CSCI-699 (Grounding Natural Language), CSCI-534 (Affective Computing), <br/>
       ... EE-546 (Math of High-Dimensional Data), CSCI-535 (Multimodal Prob Learning of Communication), <br/>
       ... CSCI-654 (Crafting a Research Agenda), CSCI-699 (Science of LLMs), <br/>
-      ... CSCI-699 (History of Language and Computations; ongoing)
+      ... CSCI-699 (History of Language and Computations)
     </td>
   </tr>
   <tr>
