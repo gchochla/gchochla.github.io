@@ -10,7 +10,7 @@ paperurl: https://arxiv.org/abs/2505.17222
 citation: 'Chochlakis, Georgios, Peter Wu, Arjun Bedi, Marcus Ma, Kristina Lerman, and Shrikanth Narayanan. "Humans Hallucinate Too: Language Models Identify and Correct Subjective Annotation Errors With Label-in-a-Haystack Prompts." arXiv preprint arXiv:2505.17222'
 ---
 
-<img src="https://gchochla.github.io/images/liahr.png" style="display: block; margin-left: auto; margin-right:auto; width: 90%; height: auto;">
+<img src="https://gchochla.github.io/images/liahr.png" style="display: block; margin-left: auto; margin-right:auto; width: 60%; height: auto;">
 <br>
 [[code](https://github.com/gchochla/liahr)]
 <br>
