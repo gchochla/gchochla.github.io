@@ -167,7 +167,7 @@ redirect_from:
   <tr>
     <th colspan=2> Honors & Awards </th>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://sac.usc.edu/credif/" target="_blank"><img src="../images/Capital_One_logo.svg.png"></a></td>
     <td><b>CapitalOne</b><br/>
       2025 <br/>
@@ -206,26 +206,6 @@ redirect_from:
 <hr>
 
 <table>
-  <tr>
-    <th colspan=2> Reviewing </th>
-  <tr>
-    <td><a href="https://nips.cc" target="_blank"><img src="../images/neurips.png"></a></td>
-    <td>Dataset and Benchmark Track: 2022, 2023, 2024<br/>
-    General: 2025</td>
-  </tr>
-  <tr>
-    <td><a href="https://ieeeicassp.org" target="_blank"><img src="../images/SPS_Logo_Color_RGB.png"></a></td>
-    <td>ICASSP: 2023, 2024, 2025</td>
-  </tr>
-  <tr>
-    <td><a href="https://chi2025.acm.org" target="_blank"><img src="../images/SIGCHI_Logo.svg.png"></a></td>
-    <td>CHI: 2025</td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
   <tr><th> Publications </th></tr>
    {% for post in site.publications reversed %}
     <tr><td>{% include archive-single-cv.html %}</td></tr>
@@ -248,7 +228,7 @@ Skills
 Miscellaneous
 -----
 
-* Sports  ⚽ 🏀 👟
+* Sports  ⚽ 🏀 👟 🏋️
 
 * Books 📖 -> popular science🥼  AI🤖  history📜  philosophy💭  crime🔫
 
