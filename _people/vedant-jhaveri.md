@@ -3,7 +3,7 @@ collection: people
 title: "Vedant Jhaveri"
 permalink: /people/vedant-jhaveri
 start: 'February 2025'
-end: ''
+end: 'May 2025'
 current: "LinkedIn"
 date: 2025-02-05
 linkedin: https://www.linkedin.com/in/vedant-vipul-jhaveri

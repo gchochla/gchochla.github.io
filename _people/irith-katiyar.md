@@ -3,7 +3,7 @@ collection: people
 title: "Irith Katiyar"
 permalink: /people/irith-katiyar
 start: 'September 2022'
-end: ''
+end: 'May 2025'
 current: 'Harvard University (MSc)'
 date: 2022-09-01
 linkedin: https://www.linkedin.com/in/irith-katiyar
