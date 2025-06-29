@@ -222,6 +222,10 @@ redirect_from:
     <td><a href="https://chi2025.acm.org" target="_blank"><img src="../images/SIGCHI_Logo.svg.png"></a></td>
     <td><b>CHI</b>: 2025</td>
   </tr>
+  <tr>
+    <td><a href="https://aclrollingreview.org" target="_blank"><img src="../images/ARR.png"></a></td>
+    <td>May 2025 (<b>EMNLP</b>)</td>
+  </tr>  
 </table>
 
 <hr>
