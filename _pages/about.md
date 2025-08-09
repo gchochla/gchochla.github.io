@@ -19,4 +19,5 @@ I also pretend to care about the philosophy of science, scientific rigor and rep
 
 In my free time, I sleep, work out, and experience existential angst from the ghost of Ancient Greece and what could (should) have been.
 
-> I must not procrastinate. Procrastination is the mind-killer. Procrastination is the little death that brings total obliteration. I will face my procrastination. I will permit it to pass over me and through me. And when it has gone past, I will turn the inner eye to see its path. Where the procrastination has gone there will be nothing. Only I will remain.
+> I must not [procrastinate]. [Procrastination] is the mind-killer. [Procrastination] is the little death that brings total obliteration. I will face my [procrastination]. I will permit it to pass over me and through me. And when it has gone past, I will turn the inner eye to see its path. Where the [procrastination] has gone there will be nothing. Only I will remain.
+\- Dune (Frank Herbert)
