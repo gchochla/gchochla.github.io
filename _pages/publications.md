@@ -12,7 +12,7 @@ Perform every action with you heart fixed on the Supreme Lord. Renounce attachme
 Work done with anxiety about results is far inferior to work done without such anxiety, in the calm of self-surrender. Seek refuge in the knowledge of Brahma. They who work selfishly for results are miserable.
 \- Bhagavad Gita
 
-{% author.googlescholar %}
+<p>{{author.googlescholar}}</p>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
