@@ -12,9 +12,8 @@ Perform every action with you heart fixed on the Supreme Lord. Renounce attachme
 [A paper] done with anxiety about [publication] is far inferior to [a paper] done without such anxiety, in the calm of self-surrender. Seek refuge in the knowledge of Brahma. They who work selfishly for [publication] are miserable.
 \- Bhagavad Gita
 
-<p>{{author.googlescholar}}</p>
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% for post in site.publications reversed %}
