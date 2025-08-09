@@ -13,7 +13,7 @@ redirect_from:
 
 tl;dr
 
-I'm Yiorgos Chochlakis, 5th-year CS PhD student at USC with [Shrikanth Narayanan](https://sail.usc.edu/people/shri.php) in [SAIL](https://sail.usc.edu/). I work on complex subjective language tasks (i.e., problems where we can agree to disagree) and how LLMs perform on them.
+I'm Yiorgos Chochlakis, 5th-year CS PhD student at USC with [Shrikanth Narayanan](https://sail.usc.edu/people/shri.php) in [SAIL](https://sail.usc.edu/). I work on complex subjective language tasks (i.e., problems where we can agree to disagree) and analyse how LLMs perform on them.
 
 ---
 
