@@ -9,7 +9,7 @@ author_profile: true
 
 > You have the right to [papers], but for the [paper]'s sake only. You have no right to the [publication] of [papers]. Desire for the [publication] must never be your motive in working. Never give way to laziness, either.
 Perform every action with you heart fixed on the Supreme Lord. Renounce attachment to [publication]. Be even-tempered in success and failure: for it is this evenness of temper which is meant by yoga.
-Work done with anxiety about [publicarion] is far inferior to work done without such anxiety, in the calm of self-surrender. Seek refuge in the knowledge of Brahma. They who work selfishly for [publication] are miserable.
+[A paper] done with anxiety about [publication] is far inferior to work done without such anxiety, in the calm of self-surrender. Seek refuge in the knowledge of Brahma. They who work selfishly for [publication] are miserable.
 \- Bhagavad Gita
 
 <p>{{author.googlescholar}}</p>
