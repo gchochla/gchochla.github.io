@@ -18,7 +18,7 @@ BibTex Citation
 -
 
 ```bibtex
-@Inproceedings{Chochlakis2024,
+@Inproceedings{Chochlakis2024tackling,
  author = {Georgios Chochlakis and Chandrashekhar Lavania and Prashant Mathur and Kyu Han},
  title = {Tackling missing modalities in audio-visual representation learning using masked autoencoders},
  year = {2024},

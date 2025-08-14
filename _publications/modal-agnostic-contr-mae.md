@@ -18,7 +18,7 @@ BibTex Citation
 -
 
 ```bibtex
-@Inproceedings{Chochlakis2024,
+@Inproceedings{Chochlakis2025modalityagnostic,
  author = {Georgios Chochlakis and Turab Iqbal and Woo Hyun Kang and Zhaocheng Huang},
  title = {Modality-Agnostic Multimodal Emotion Recognition using a Contrastive Masked Autoencoder},
  year = {2025},
