@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/subjective-aggregation-artifacts
 excerpt: 'Our results indicate that aggregation is a confounding factor in the modeling of subjective tasks, and advocate focusing on modeling individuals instead. However, aggregation does not explain the entire gap between ICL and the state of the art, meaning other factors in such tasks also account for the observed phenomena. Finally, by rigorously studying annotator-level labels, we find that it is possible for minority annotators to both better align with LLMs and have their perspectives further amplified.'
 date: 2025-04-29
-venue: 'NAACL'
+venue: 'Proceedings of NAACL'
 published: 'true'
 paperurl: https://aclanthology.org/2025.naacl-long.284/#
 citation: 'Chochlakis, Georgios, Alexandros Potamianos, Kristina Lerman, and Shrikanth Narayanan. "Aggregation Artifacts in Subjective Tasks Collapse Large Language Models Posteriors." In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL).'
