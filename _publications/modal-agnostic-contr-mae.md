@@ -6,7 +6,7 @@ excerpt: 'Multimodal deep learning methods have greatly accelerated research in 
 date: 2025-08-17
 venue: 'InterSpeech'
 published: 'true'
-# paperurl: ''
+paperurl: https://www.isca-archive.org/interspeech_2025/chochlakis25_interspeech.pdf
 citation: 'Chochlakis, Georgios, Turab Iqbal, Woo Hyun Kang, Zhaocheng Huang. "Modality-Agnostic Multimodal Emotion Recognition using a Contrastive Masked Autoencoder" Interspeech 2025.'
 ---
 
