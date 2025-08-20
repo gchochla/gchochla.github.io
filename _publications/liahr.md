@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/liahr
 excerpt: 'We introduce the Label-in-a-Haystack setting: the query and its label(s) are included in the demonstrations shown to LLMs, which are prompted to predict the label(s) again, while receiving task-specific instructions (e.g., emotion recognition) rather than label copying. We show how the failure to copy the label(s) to the output of the LLM are task-relevant and informative. Building on this, we propose the Label-in-a-Haystack Rectification (LiaHR) framework for subjective label correction.'
 date: 2025-11-05
-venue: 'Findings of EMNLP'
+venue: 'Proceedings of EMNLP'
 published: 'accepted'
 paperurl: https://arxiv.org/abs/2505.17222
 citation: 'Chochlakis, Georgios, Peter Wu, Arjun Bedi, Marcus Ma, Kristina Lerman, and Shrikanth Narayanan. "Humans Hallucinate Too: Language Models Identify and Correct Subjective Annotation Errors With Label-in-a-Haystack Prompts." arXiv preprint arXiv:2505.17222'
