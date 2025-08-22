@@ -19,3 +19,6 @@ Perform every action with you heart fixed on the Supreme Lord. Renounce attachme
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+> The [reviewer] is always right
+\- No one ever
