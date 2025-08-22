@@ -131,7 +131,9 @@ redirect_from:
     <td><b>University of Southern California</b>, Los Angeles, CA, U.S.A. <br/>
       <i>Graduate Research Assistant</i> at the <i><a href="https://sail.usc.edu/" target="_blank">Signal Analysis and Interpretation Lab</a></i> <br/>
       May 2021 -- Present <br/>
-      <i>Duties</i>: Multilingual & Multimodal Affective Analysis on Social Media <br/>
+      <i>Duties</i>: Focusing on understanding complex multi-label subjective tasks with LLM <br/>
+      ... Multilingual & Multimodal Affective Analysis on Social Media <br/>
+      ... Published in EMNLP (x2), NAACL, ACII, ICASSP (x3) [, and others as second author: NeurIPS, ICWSM, ...]
       ... Resurrected the reading group of the lab with 15-20 active members <br/>
       ... Actively mentoring undergraduate and graduate students <br/>
       ... IEEE K-12 Outreach programs: Presented in Spring 22 to approx. 90 students, *Team Lead* in Fall 22 for approx. 90 students <br/>
