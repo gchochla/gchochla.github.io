@@ -20,5 +20,5 @@ Perform every action with you heart fixed on the Supreme Lord. Renounce attachme
   {% include archive-single.html %}
 {% endfor %}
 
-> The [reviewer] is always right
-\- No one ever
+> The [reviewer] is always right.
+\- No one ever(?)
