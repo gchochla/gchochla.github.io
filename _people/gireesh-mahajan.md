@@ -5,7 +5,7 @@ permalink: /people/gireesh-mahajan
 start: 'April 2022'
 end: 'November 2022'
 date: 2022-04-13
-current: "Microsoft"
+current: "xAI"
 linkedin: https://www.linkedin.com/in/gireesh-mahajan
 image: https://gchochla.github.io/images/gireesh.jpeg
 github: gireesh-m
