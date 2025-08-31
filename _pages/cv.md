@@ -37,7 +37,11 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="float:right"> View in <a href="https://gchochla.github.io/files/resume.pdf" target="_blank"><img src="../images/PDF_icon.png" style="width:10px"></a> </div>
+<div style="float:right">
+  View in PDF:
+  <a href="https://gchochla.github.io/files/resume.pdf" target="_blank">Resume <img src="../images/PDF_icon.png" style="width:10px"></a> |
+  <a href="https://gchochla.github.io/files/cv.pdf" target="_blank">CV <img src="../images/PDF_icon.png" style="width:10px"></a>
+</div>
 
 <table>
   <tr>
