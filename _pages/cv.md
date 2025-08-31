@@ -72,9 +72,23 @@ redirect_from:
 {% include base_path %}
 
 <div class="pdf-links-card">
-  <span style="font-size:1.1em;font-weight:600;margin-bottom:8px;">View in:</span>
-  <a href="https://gchochla.github.io/files/resume.pdf" target="_blank">Resume <img src="../images/PDF_icon.png" alt="PDF"></a>
-  <a href="https://gchochla.github.io/files/cv.pdf" target="_blank">CV <img src="../images/PDF_icon.png" alt="PDF"></a>
+  <span style="font-size:1.1em;font-weight:600;margin-bottom:8px;">View as PDF:</span>
+  <table style="border:none;margin:0;padding:0;">
+    <tr>
+      <td style="text-align:center;padding:8px 12px;border:none;">
+        <div style="font-weight:500;margin-bottom:4px;">Resume</div>
+        <a href="https://gchochla.github.io/files/resume.pdf" target="_blank">
+          <img src="../images/PDF_icon.png" alt="PDF" style="width:24px !important;height:auto;">
+        </a>
+      </td>
+      <td style="text-align:center;padding:8px 12px;border:none;">
+        <div style="font-weight:500;margin-bottom:4px;">CV</div>
+        <a href="https://gchochla.github.io/files/cv.pdf" target="_blank">
+          <img src="../images/PDF_icon.png" alt="PDF" style="width:24px !important;height:auto;">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <table>
