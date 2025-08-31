@@ -20,6 +20,40 @@ redirect_from:
   td{
     padding: 1.5em;
   }
+  .pdf-links-card {
+    float: right;
+    background: #f8f9fa;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    padding: 18px 24px;
+    margin: 16px 0 16px 24px;
+    font-size: 1.08em;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 220px;
+  }
+  .pdf-links-card a {
+    color: #0077cc;
+    text-decoration: none;
+    margin: 6px 0;
+    transition: color 0.2s;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .pdf-links-card a:hover {
+    color: #005fa3;
+    text-decoration: underline;
+  }
+  .pdf-links-card img {
+    width: 18px !important;
+    height: auto;
+    margin: 0;
+    display: inline;
+    vertical-align: middle;
+  }
   
   td, th {
     border: none;
@@ -37,10 +71,10 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="float:right">
-  View in PDF:
-  <a href="https://gchochla.github.io/files/resume.pdf" target="_blank">Resume <img src="../images/PDF_icon.png" style="width:10px"></a> |
-  <a href="https://gchochla.github.io/files/cv.pdf" target="_blank">CV <img src="../images/PDF_icon.png" style="width:10px"></a>
+<div class="pdf-links-card">
+  <span style="font-size:1.1em;font-weight:600;margin-bottom:8px;">View in:</span>
+  <a href="https://gchochla.github.io/files/resume.pdf" target="_blank">Resume <img src="../images/PDF_icon.png" alt="PDF"></a>
+  <a href="https://gchochla.github.io/files/cv.pdf" target="_blank">CV <img src="../images/PDF_icon.png" alt="PDF"></a>
 </div>
 
 <table>
