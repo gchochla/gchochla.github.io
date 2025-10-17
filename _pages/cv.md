@@ -222,6 +222,12 @@ redirect_from:
     <th colspan=2> Honors & Awards </th>
   </tr>
   <tr>
+    <td><a href="https://nips.cc" target="_blank"><img src="../images/neurips.png"></a></td>
+    <td><b>NeurIPS</b> 2025<br/>
+      <i>Top reviewer</i> <br/>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://sac.usc.edu/credif/" target="_blank"><img src="../images/Capital_One_logo.svg.png"></a></td>
     <td><b>CapitalOne</b><br/>
       2025 <br/>
