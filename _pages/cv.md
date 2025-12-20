@@ -285,7 +285,11 @@ redirect_from:
   <tr>
     <td><a href="https://aclrollingreview.org" target="_blank"><img src="../images/ARR.png"></a></td>
     <td>May 2025 (<b>EMNLP</b>)</td>
-  </tr>  
+  </tr>
+  <tr>
+    <td><a href="https://iclr.cc/Conferences/2026/Dates" target="_blank"><img src="../images/ICLR_Logo.svg.png"></a></td>
+    <td>2026</td>
+  </tr>
 </table>
 
 <hr>
