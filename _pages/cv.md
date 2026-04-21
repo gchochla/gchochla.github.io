@@ -139,6 +139,16 @@ redirect_from:
     <th colspan=2> Work Experience </th>
   </tr>
   <tr>
+    <td><a href="https://fetz.ai/" target="_blank"><img src="../images/fetz.png"></a></td>
+    <td><b>Fetz</b>, Los Angeles, CA, U.S.A. <br/>
+      <i>Co-founder and CTO</i> <br/>
+      Nov 2025 -- Apr 2026 (6mos)<br/>
+      <i>Duties</i>: Founded voice AI wearable startup to makes people's voices heard <br/>
+      ... Shipped a speech coach CRM and a consumer app by repurposing existing wearable to stream audio <br/>
+      ... Reached top 10% of applicants at YC, advanced to interviews at a16z Speedrun and PearX.
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://aws.amazon.com/" target="_blank"><img src="../images/aws-logo.png"></a></td>
     <td><b>Amazon Web Services</b>, Bellevue, WA, U.S.A. <br/>
       <i>Applied Science intern</i> <br/>
