@@ -143,9 +143,9 @@ redirect_from:
     <td><b>Fetz</b>, Los Angeles, CA, U.S.A. <br/>
       <i>Co-founder and CTO</i> <br/>
       Nov 2025 -- Apr 2026 (6mos)<br/>
-      <i>Duties</i>: Founded voice AI wearable startup to makes people's voices heard <br/>
+      <i>Duties</i>: Founded voice AI wearable startup to make people's voices heard <br/>
       ... Shipped a speech coach CRM and a consumer app by repurposing existing wearable to stream audio <br/>
-      ... Reached top 10% of applicants at YC, advanced to interviews at a16z Speedrun and PearX.
+      ... Reached top 10% of applicants at YC, advanced to interviews at a16z Speedrun and PearX, secured an a16z scout check.
     </td>
   </tr>
   <tr>
