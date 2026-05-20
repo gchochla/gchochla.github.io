@@ -99,7 +99,7 @@ redirect_from:
     <td><a href="https://www.usc.edu/" target="_blank"><img src="../images/usc-logo.png"></a></td>
     <td><b>University of Southern California</b>, Los Angeles, CA, U.S.A. <br/>
       <i>Ph.D.</i> in <i>Computer Science</i> <br/>
-      August 2021 -- Present <br/>
+      August 2021 -- May 2026 <br/>
       <i>Advisor</i>: <a href="https://sail.usc.edu/people/shri.html" target="_blank">Prof. Shri Narayanan</a>
     </td>
   </tr>
@@ -107,7 +107,7 @@ redirect_from:
     <td><a href="https://www.usc.edu/" target="_blank"><img src="../images/usc-logo.png"></a></td>
     <td><b>University of Southern California</b>, Los Angeles, CA, U.S.A. <br/>
       <i>M.Sc.</i> in <i>Computer Science</i> <br/>
-      August 2021 -- Present <br/>
+      August 2021 -- May 2026 <br/>
       <i>Current GPA</i>: <b>4.0</b> / 4.0 <br/>
       <i>Coursework</i>: CSCI-670 (Advanced Analysis of Algorithms), PSYC-626 (Computational Social Sciences), <br/>
       ... CSCI-699 (Grounding Natural Language), CSCI-534 (Affective Computing), <br/>
