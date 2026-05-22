@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yorgos Chochlakis"
+title                    : "Yiorgos Chochlakis"
 title_separator          : "-"
-name                     : &name "Yorgos Chochlakis"
+name                     : &name "Yiorgos Chochlakis"
 description              : &description "AI researcher; CS PhD candidate at USC"
 url                      : https://gchochla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yorgos Chochlakis <br/> (Γιώργος Χοχλάκης ['jorɣos xo'xlakis])"
+  name             : "Yiorgos Chochlakis <br/> (Γιώργος Χοχλάκης ['jorɣos xo'xlakis])"
   avatar           : "profile_new_2.png"
   bio              : "AI researcher; CS PhD fellow at USC"
   location         : "Los Angeles, CA, USA"

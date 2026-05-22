@@ -232,6 +232,12 @@ redirect_from:
     <th colspan=2> Honors & Awards </th>
   </tr>
   <tr>
+    <td><a href="https://icml.cc" target="_blank"><img src="../images/icml_logo_small.png"></a></td>
+    <td><b>ICML</b> 2026<br/>
+      <i>Silver Reviewer</i> <br/>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://nips.cc" target="_blank"><img src="../images/neurips.png"></a></td>
     <td><b>NeurIPS</b> 2025<br/>
       <i>Top reviewer</i> <br/>
@@ -298,6 +304,10 @@ redirect_from:
   </tr>
   <tr>
     <td><a href="https://iclr.cc/Conferences/2026/Dates" target="_blank"><img src="../images/ICLR_Logo.svg.png"></a></td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td><a href="https://icml.cc" target="_blank"><img src="../images/icml_logo_small.png"></a></td>
     <td>2026</td>
   </tr>
 </table>
