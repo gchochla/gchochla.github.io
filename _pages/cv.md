@@ -167,7 +167,7 @@ redirect_from:
   <tr>
     <td><a href="https://behavioralsignals.com/" target="_blank"><img src="../images/bst-logo.png"></a></td>
     <td><b>Behavioral Signal Technologies</b>, Los Angeles, CA, U.S.A. <br/>
-      <i>Machine Learning engineer</i> <br/>
+      <i>Machine Learning engineer</i> (remote) <br/>
       December 2020 -- July 2021 (6mos)<br/>
       <i>Duties</i>: Speech Diarization in phone calls, Feature engineering and modeling of speakers in phone calls <br/>
     </td>
